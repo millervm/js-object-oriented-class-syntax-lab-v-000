@@ -6,7 +6,7 @@ class BoardMember {
   };
 
   veto = function() {
-    return "No, I must agree";
+    return "No, I must disagree";
   };
 
   approve = function() {
